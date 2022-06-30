@@ -1,5 +1,5 @@
 @ECHO OFF
-cd %ONEDRIVE%"\ProyectosPython\lectordefacturas\CSV"
+cd %ONEDRIVE%"\ProyectosPython\CSV"
 git status
 git add .
 git commit -m "Actualización de datos"
