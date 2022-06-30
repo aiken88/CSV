@@ -1,7 +1,7 @@
 @ECHO OFF
-cd %ONEDRIVE%"\ProyectosPython\lectordefacturas\CSV
+cd %ONEDRIVE%"\ProyectosPython\lectordefacturas\CSV"
 git status
-git add facturas.csv
+git add .
 git commit -m "Actualización de datos"
 git push origin main
 ECHO "fin de la actualización a github"
