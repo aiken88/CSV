@@ -1,0 +1,3 @@
+lcd 'C:\Users\t151220\OneDrive - Telefonica\ProyectosPython\CSV'
+put facturas2.csv /home/andres/ProyectosPython/CSV
+exit
